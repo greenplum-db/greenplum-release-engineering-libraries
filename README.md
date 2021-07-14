@@ -2,6 +2,8 @@
 
 ## Overview
 
+This repo is used by gp-releng team for development.
+
 ## Try it out
 
 ### Prerequisites
