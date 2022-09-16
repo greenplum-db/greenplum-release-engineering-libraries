@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/pivotal/gp-releng-libs/vlogs"
+	"github.com/greenplum-db/gp-releng-libs/vlogs"
 
 	"github.com/avast/retry-go"
 )
