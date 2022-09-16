@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pivotal/gp-releng-libs/retry"
+	"github.com/greenplum-db/gp-releng-libs/retry"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
