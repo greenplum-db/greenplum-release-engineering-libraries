@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/greenplum-db/gp-releng-libs/retry"
+	"github.com/greenplum-db/greenplum-release-engineering-libraries/retry"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

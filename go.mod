@@ -1,4 +1,4 @@
-module github.com/greenplum-db/gp-releng-libs
+module github.com/greenplum-db/greenplum-release-engineering-libraries
 
 go 1.17
 
