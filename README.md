@@ -21,7 +21,7 @@ This repo is used by gp-releng team for development.
 ## Contributing
 
 The greenplum-release-engineering-libraries project team welcomes contributions from the community. Before you start working with greenplum-release-engineering-libraries, please
-read our [Developer Certificate of Origin](https://cla.vmware.com/dco). All contributions to this repository must be
+read our [Contributors License Agreement](https://cla.vmware.com/cla/1/preview). All contributions to this repository must be
 signed as described on that page. Your signature certifies that you wrote the patch or have the right to pass it on
 as an open-source patch. For more detailed information, refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
